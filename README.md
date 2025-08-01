@@ -1,6 +1,6 @@
 # Hi, I'm Hubert 👋🏼
 
-##**React / Next.js Frontend Developer · Wrocław, Poland**
+## **React / Next.js Frontend Developer · Wrocław, Poland**
 
 Welcome to my GitHub!  
 I’m a passionate frontend developer focused on usability, clean code, and modern web technologies — mainly React.js and Next.js. I thrive in both remote and on-site environments, adapt quickly, and enjoy working in diverse teams with clear communication.
