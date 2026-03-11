@@ -28,7 +28,7 @@ I’m a passionate frontend developer focused on usability, clean code, and mode
 - **Styling:** SCSS (Sass), Tailwind. Also familiar with Bootstrap & MUI.
 - **Tools:** Git & GitHub, Visual Studio Code, Storybook, motion.dev
 - **Databases:** MongoDB
-- **Other:** RWD, RESTful APIs
+- **Other:** RWD, RESTful APIs, Figma, Jira
 
 ---
 
