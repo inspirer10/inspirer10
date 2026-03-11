@@ -37,6 +37,8 @@ I’m a passionate frontend developer focused on usability, clean code, and mode
 - [Portfolio ✨](https://hubertlepski.vercel.app/) 
 - [Webstore 👗](https://musthave.vercel.app/)
 - [SEO SaaS Company 🤖](https://seo-saas-company.vercel.app/)
+- [CoDrive 🚗](https://co-drive-hl.vercel.app/)
+- [Xyntium Finances 💰](https://xyntium-finances.vercel.app/)
 - [SaaS Company ☁️](https://saas-company.vercel.app/)
 - [English Tutor 👩🏽‍🏫](https://julia-grzesiek.vercel.app/)
 - [Prototype Vehicle 🏎️](https://inspirer10.github.io/prototype-vehicle/)
@@ -77,6 +79,7 @@ Check out more at my [portfolio website](https://hubertlepski.vercel.app/)!
 
 ## 📖 Education & Courses
 
+- **2025:** AI in Business Development – Umiejętnosci Jutra 
 - **2025:** AI Competence Development – AIDEAS
 - **2022:** React from scratch, Advanced Frontend, Programming in JS – Samuraj Programowania
 - **2020:** Web Developer Course, Kodilla
